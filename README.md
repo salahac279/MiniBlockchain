@@ -1,2 +1,2 @@
 # MiniBlockchain
-A Block
+A simple Blockchain Implementation using C++
